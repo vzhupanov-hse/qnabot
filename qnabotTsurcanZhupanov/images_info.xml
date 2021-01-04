@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<images>
+  <image number="Image 1">
+    <imagePath>https://sun9-19.userapi.com/c853624/v853624212/f948f/XpxZeR8rj7I.jpg</imagePath>
+    <webPath>https://clck.ru/NPtQF</webPath>
+    <rightAnswer>1</rightAnswer>
+  </image>
+  <image number="Image 2">
+    <imagePath>https://sun9-50.userapi.com/c852132/v852132212/1cf0a8/6yAosjC4BfE.jpg</imagePath>
+    <webPath>https://clck.ru/NPtSo</webPath>
+    <rightAnswer>9</rightAnswer>
+  </image>
+  <image number="Image 3">
+    <imagePath>https://sun9-33.userapi.com/c851416/v851416212/1bdbc1/yLEGBsvzf9I.jpg</imagePath>
+    <webPath>https://clck.ru/NPtUq</webPath>
+    <rightAnswer>234</rightAnswer>
+  </image>
+  <image number="Image 4">
+    <imagePath>https://sun9-49.userapi.com/c850720/v850720809/1bdf51/jmrWK3gdOuA.jpg</imagePath>
+    <webPath>https://clck.ru/NPtWF</webPath>
+    <rightAnswer>6</rightAnswer>
+  </image>
+  <image number="Image 5">
+    <imagePath>https://sun9-45.userapi.com/c850220/v850220724/1e8921/sgIAi7G6jq0.jpg</imagePath>
+    <webPath>https://clck.ru/NPtXY</webPath>
+    <rightAnswer>10</rightAnswer>
+  </image>
+  <image number="Image 6">
+    <imagePath>https://sun9-48.userapi.com/c857636/v857636460/789c5/jdmDtDRTLhU.jpg</imagePath>
+    <webPath>https://clck.ru/NPtZA</webPath>
+    <rightAnswer>5</rightAnswer>
+  </image>
+  <image number="Image 7">
+    <imagePath>https://sun9-52.userapi.com/c850324/v850324362/1eac69/uHOc6ngRzEc.jpg</imagePath>
+    <webPath>https://clck.ru/NPtaD</webPath>
+    <rightAnswer>true</rightAnswer>
+  </image>
+  <image number="Image 8">
+    <imagePath>https://sun9-50.userapi.com/c850324/v850324362/1eac7f/Eln5tMkyjfU.jpg</imagePath>
+    <webPath>https://clck.ru/NPtbA</webPath>
+    <rightAnswer>11</rightAnswer>
+  </image>
+  <image number="Image 9">
+    <imagePath>https://sun9-22.userapi.com/c857528/v857528590/8360d/KXGru1q3sy4.jpg</imagePath>
+    <webPath>https://clck.ru/NPtcD</webPath>
+    <rightAnswer>16171819</rightAnswer>
+  </image>
+  <image number="Image 10">
+    <imagePath>https://sun9-35.userapi.com/c852124/v852124192/1de246/sj7r5t6rY1I.jpg</imagePath>
+    <webPath>https://clck.ru/NPtd8</webPath>
+    <rightAnswer>***</rightAnswer>
+  </image>
+</images>
